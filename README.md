@@ -10,11 +10,11 @@ Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer with a spec
 
 ### 🚀 What I Bring to the Table:
 
-**Aspiring Front-End Developer:** I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
+- **Aspiring Front-End Developer:** I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
 
-**MERN Stack Explorer:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
+- **MERN Stack Explorer:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
 
-**React Enthusiast:** I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
+- **React Enthusiast:** I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
 
 <br>
 
@@ -54,7 +54,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br>
 
 ## 🔍 Git Insights
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
+</div>
 
 <br>
 

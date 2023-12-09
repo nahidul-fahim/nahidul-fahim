@@ -33,7 +33,7 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ### 🌐 Let's Connect:
 
 
-<p align="center">
+
   <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
@@ -41,4 +41,3 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
   <a href="https://google.com">
 <i class="ci ci-nuxtjs ci-5x"></i>
 </a>
-</p>

@@ -72,6 +72,6 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=2077&utcOffset=8" width="400" /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=2077" width="900" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=2077" width="800" />
 
 </div>

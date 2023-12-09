@@ -26,16 +26,30 @@ Over the next two years, my goal is to evolve from a junior developer to a seaso
 
 ### 💼 What I'm Looking For:
 
-I'm actively seeking opportunities to collaborate on exciting MERN stack projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together! 🌐
+I'm actively seeking opportunities to collaborate on exciting MERN stack projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
 
 <br>
 
 ### 🌐 Let's Connect:
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+
+<i class="ci ci-nuxtjs ci-5x"></i>
+
+
+
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamnahidul-islam/">
+  <a href="https://www.linkedin.com/in/iamnahidul-islam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://twitter.com/nahidul_fahim_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
+
+Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.

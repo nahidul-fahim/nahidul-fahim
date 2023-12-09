@@ -29,7 +29,8 @@ Over the next two years, my goal is to evolve from a junior developer to a seaso
 I'm actively seeking opportunities to collaborate on exciting MERN stack projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
 
 <br>
-**Dont't hesitate to ring my inbox bell. [Drop me a line](mailto:nahidulislam.contact@gmail.com "Drop a mail")**.
+
+**Dont't hesitate to ring my inbox bell. [Drop me a line.](mailto:nahidulislam.contact@gmail.com "Drop a mail")**
 
 <br>
 

@@ -2,6 +2,9 @@
 <img src="./Images/Banner/github-banner-gif2.gif" />
 </a>
 
+<br><br>
+
+
 ## 🙋‍♂️ About me
 
 Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer with a special love for React. Actively refining my skills with real-world MERN projects, I'm dedicated to staying on the cutting edge of technology.
@@ -32,7 +35,7 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 ### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:nahidulislam.contact@gmail.com "Drop a mail")**
 
-<br>
+<br><br>
 
 
 ## 💻 Tech Stack & Skills
@@ -41,8 +44,8 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase,figma" />
 </p>
 
-<br>
 
+<br><br>
 
 
 ### 🌐 Let's Connect:
@@ -58,7 +61,8 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
 
-<br>
+
+<br><br>
 
 
 ## 🔍 Git Insights
@@ -66,7 +70,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" />
 </div>
 
-<br>
+
+<br><br>
+
 
 ## 📊 Git Activity
 
@@ -85,7 +91,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 </div>
 
 
-<br>
+<br><br>
 
 
 ## 🌈 Discover My Recent Projects
@@ -106,8 +112,8 @@ Admin password: Asdf$$
 - Register / login system
 - 3 different dashboard for 3 different of users (Admin, Delivery man, normal registered user)
 
-<br><br>
 
+<br><br>
 
 
 ### ☕ Sip-Savor Restaurant (A restaurant website)

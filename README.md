@@ -83,3 +83,66 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=2077" width="800" />
 
 </div>
+
+
+<br>
+
+
+## 🌈 Discover My Recent Projects
+
+<br>
+
+### 📦 Glide Parcel (A parcel booking website)
+
+<br>
+
+**Live site**: [Glide parcel](https://glide-parcel.web.app)
+
+Admin email: admin@admin.com
+
+Admin password: Asdf$$
+
+- A dynamic homepage, where all the statistics and deliveryman information coming from database
+- Register / login system
+- 3 different dashboard for 3 different of users (Admin, Delivery man, normal registered user)
+
+<br><br>
+
+
+
+### ☕ Sip-Savor Restaurant (A restaurant website)
+
+<br>
+
+**Live site**: [Sip savor restaurant](https://sip-savor-restaurant.web.app)
+
+Admin email: admin@admin.com
+
+Admin password: Asdf$$
+
+- A dynamic homepage, where total orders and favourite menu information are coming from databse
+- Register / login system
+- 2 different dashboard for admin and normal users
+- Admin can manage products from database
+- JWT verification for security
+
+
+<br><br>
+
+
+### ☕ Motor Mingle (A car selling website)
+
+<br>
+
+**Live site**: [Motor Mingle](https://motor-mingle.web.app)
+
+Admin email: admin@admin.com
+
+Admin password: Asdf$$
+
+- A dynamic section in the homepage, where brand names are coming from database.
+- Register / login system
+- 2 different dashboard for admin and normal users
+- Admin can manage products from database
+- JWT verification for security
+- Light/dark mode toggle

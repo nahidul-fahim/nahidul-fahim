@@ -32,19 +32,6 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 ### 🌐 Let's Connect:
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
-
-<div>
-<i class="ci ci-nuxtjs ci-5x"></i>
-</div>
-
-
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/iamnahidul-islam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -55,3 +42,11 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 </p>
 
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
+
+<br>
+
+## 💻 Tech Stack & Skills:
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase,figma" />
+</p>

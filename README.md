@@ -55,7 +55,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ## 🔍 Git Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" />
 </div>
 
 <br>
@@ -64,14 +64,14 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=shades_of_purple" width="400" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=2077" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidul-fahim&theme=shades_of_purple" width="400" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidul-fahim&theme=2077" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=shades_of_purple" width="400" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=2077" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=shades_of_purple&utcOffset=8" width="400" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=2077&utcOffset=8" width="400" /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=shades_of_purple" width="900" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=2077" width="900" />
 
 </div>

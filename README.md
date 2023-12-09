@@ -33,10 +33,16 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ### 🌐 Let's Connect:
 
 
-
-<a href="google.com">
+<p align="center">
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+  />
+  <a href="https://google.com">
 <i class="ci ci-nuxtjs ci-5x"></i>
 </a>
+</p>
+
 
 - **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/johndoe)
 - **Email:** john.doe@email.com

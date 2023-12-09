@@ -59,6 +59,8 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br>
 
 ## 📊 Git Activity
+
+<div align="center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=shades_of_purple)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=shades_of_purple)
@@ -68,3 +70,4 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=shades_of_purple)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=shades_of_purple&utcOffset=8)
+</div>

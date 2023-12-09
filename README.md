@@ -37,7 +37,9 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
 />
 
+<div>
 <i class="ci ci-nuxtjs ci-5x"></i>
+</div>
 
 
 

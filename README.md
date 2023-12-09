@@ -50,3 +50,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase,figma" />
 </p>
+
+
+## My github activity:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

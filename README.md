@@ -60,15 +60,16 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ## 📊 Git Activity
 
-<div align="center>
+<div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=shades_of_purple" width="400"> </img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=shades_of_purple" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidul-fahim&theme=shades_of_purple" width="400"> </img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidul-fahim&theme=shades_of_purple" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=shades_of_purple" width="400"> </img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=shades_of_purple" width="400" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=shades_of_purple&utcOffset=8" width="400"> </img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidul-fahim&theme=shades_of_purple&utcOffset=8" width="400" /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=shades_of_purple" width="900"> </img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=shades_of_purple" width="900" />
+
 </div>

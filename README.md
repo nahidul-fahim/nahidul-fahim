@@ -55,7 +55,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ## 🔍 Git Insights
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" />
 </div>
 
 <br>

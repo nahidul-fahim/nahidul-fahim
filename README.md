@@ -30,7 +30,7 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 <br>
 
-**Dont't hesitate to ring my inbox bell. [Drop me a line.](mailto:nahidulislam.contact@gmail.com "Drop a mail")**
+## **Dont't hesitate to ring my inbox bell. [Drop me a line.](mailto:nahidulislam.contact@gmail.com "Drop a mail")**
 
 <br>
 

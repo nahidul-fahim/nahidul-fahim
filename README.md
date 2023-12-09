@@ -42,9 +42,3 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 <i class="ci ci-nuxtjs ci-5x"></i>
 </a>
 </p>
-
-
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/johndoe)
-- **Email:** john.doe@email.com
-- **GitHub:** [My GitHub](https://github.com/johndoe)
-- **Portfolio:** [Explore My Projects](https://www.johndoeprojects.com)

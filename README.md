@@ -34,10 +34,8 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 
 
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-  />
-  <a href="https://google.com">
-<i class="ci ci-nuxtjs ci-5x"></i>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamnahidul-islam/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>

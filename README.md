@@ -33,7 +33,7 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 <br>
 
-### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:nahidulislam.contact@gmail.com "Drop a mail")**
+### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:contact.nahid98@gmail.com "Drop a mail")**
 
 <br><br>
 

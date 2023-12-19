@@ -33,7 +33,7 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 <br>
 
-### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:contact.nahid98@gmail.com "Drop a mail")**
+### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:nahidulislam1196@gmail.com "Drop a email")**
 
 <br><br>
 
@@ -68,7 +68,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=buefy-dark&card_width=600" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-blue&card_width=500&type=png)](https://git.io/streak-stats" />
 
 </div>
 

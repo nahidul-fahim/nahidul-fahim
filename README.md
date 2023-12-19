@@ -68,7 +68,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=shadow-blue&card_width=500&type=png)](https://git.io/streak-stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shadow-blue&card_width=500&type=png" />
 
 </div>
 

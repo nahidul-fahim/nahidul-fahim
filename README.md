@@ -81,9 +81,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=graywhite_icons=true" width="400" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=graywhite_icons=true&type=png" width="400" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&langs_count=8" width="400" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=donut" width="400" /> 
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="800" /> 

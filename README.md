@@ -43,7 +43,8 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 
@@ -94,7 +95,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" /> 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="600" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="700" /> 
 
 </div>
 

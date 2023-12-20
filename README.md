@@ -42,9 +42,13 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
+
+<br><br>
+  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
 </p>
 
 

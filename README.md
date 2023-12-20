@@ -1,5 +1,6 @@
 <a href="https://www.linkedin.com/in/iamnahidul-islam/">
 <img src="./Images/Banner/github-banner.gif" />
+
 </a>
 
 <br><br>
@@ -41,11 +42,8 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
-
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
-
 </p>
 
 
@@ -57,13 +55,11 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 <p align="center">
 
   <a href="https://www.linkedin.com/in/iamnahidul-islam/" target="_blank">
-
     <img src="https://skillicons.dev/icons?i=linkedin" />
 
   </a>
 
   <a href="https://twitter.com/nahidul_fahim_" target="_blank">
-
     <img src="https://skillicons.dev/icons?i=twitter" />
 
   </a>

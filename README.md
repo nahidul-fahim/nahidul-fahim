@@ -80,13 +80,11 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidul-fahim&theme=default" width="350" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidul-fahim&theme=default" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?nahidul-fahim=anuraghazra&theme=transparent&show_icons=true" width="350">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidul-fahim&theme=default" width="350" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="350" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="700" /> 
 
 </div>
 

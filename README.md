@@ -68,7 +68,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-[![Nahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=transparent_icons=true&type=png" width="400" height="195" /> 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shadow-blue&card_width=400&type=png" height="195" />
 
@@ -87,7 +87,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" /> 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="800" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="600" /> 
 
 </div>
 

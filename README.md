@@ -68,9 +68,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=graywhite_icons=true&type=png" width="400" /> 
+[![Nahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shadow-blue&card_width=400&type=png" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=shadow-blue&card_width=400&type=png" height="195" />
 
 
 </div>

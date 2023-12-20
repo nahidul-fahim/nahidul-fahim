@@ -41,7 +41,11 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase,figma" />
+
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
+
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
+
 </p>
 
 
@@ -51,12 +55,19 @@ I'm actively seeking opportunities to collaborate on exciting MERN stack project
 ### 🌐 Let's Connect:
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/iamnahidul-islam/" target="_blank">
+
     <img src="https://skillicons.dev/icons?i=linkedin" />
+
   </a>
+
   <a href="https://twitter.com/nahidul_fahim_" target="_blank">
+
     <img src="https://skillicons.dev/icons?i=twitter" />
+
   </a>
+
 </p>
 
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.

@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About me
 
-Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer with a special love for React. Actively refining my skills with real-world MERN projects, I'm dedicated to staying on the cutting edge of technology.
+Hey there! 👋 I'm Nahidul Islam, a **passionate Front-End Developer with a special love for React**. Actively refining my skills with real-world MERN projects, I'm dedicated to staying on the cutting edge of technology.
 
 <br>
 
@@ -16,9 +16,9 @@ Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer with a spec
 
 - **Aspiring Front-End Developer:** I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
 
-- **MERN Stack Explorer:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
-
 - **React Enthusiast:** I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
+
+- **MERN Stack Explorer:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
 
 <br>
 
@@ -30,7 +30,7 @@ Over the next two years, my goal is to evolve from a junior developer to a seaso
 
 ### 💼 What I'm Looking For:
 
-I'm actively seeking opportunities to collaborate on exciting MERN stack projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
+I'm actively seeking opportunities to collaborate on exciting front-end projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
 
 <br>
 

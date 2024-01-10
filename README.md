@@ -76,7 +76,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=transparent_icons=true&type=png" width="450" height="195" /> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&card_width=350" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&card_width=350" height="195" />
 
 
 

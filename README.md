@@ -106,6 +106,28 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <br>
 
+
+### 🚙 Motor Mingle (A car selling website)
+
+<br>
+
+**Live site**: [Motor Mingle](https://motor-mingle.web.app)
+
+Admin email: admin@admin.com
+
+Admin password: Asdf$$
+
+- Dedicated dashboards for both admin and user from where user can make post to sell their old car.
+- Register / login system using firebase and mongoDb database.
+- Pagination, filtering systems are occurred in the backend for better data management.
+- JWT verification for more security.
+- Admin verification system for users.
+- And many more functionalities. [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
+
+
+<br><br>
+
+
 ### 📦 Glide Parcel (A parcel booking website)
 
 <br>
@@ -134,7 +156,7 @@ Admin email: admin@admin.com
 
 Admin password: Asdf$$
 
-- A dynamic homepage, where total orders and favourite menu information are coming from databse
+- A dynamic homepage, where total orders and favorite menu information are coming from database
 - Register / login system
 - 2 different dashboard for admin and normal users
 - Admin can manage products from database
@@ -142,21 +164,3 @@ Admin password: Asdf$$
 
 
 <br><br>
-
-
-### 🚙 Motor Mingle (A car selling website)
-
-<br>
-
-**Live site**: [Motor Mingle](https://motor-mingle.web.app)
-
-Admin email: admin@admin.com
-
-Admin password: Asdf$$
-
-- A dynamic section in the homepage, where brand names are coming from database.
-- Register / login system
-- 2 different dashboard for admin and normal users
-- Admin can manage products from database
-- JWT verification for security
-- Light/dark mode toggle

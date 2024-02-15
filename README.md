@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/iamnahidul-islam/">
-<img src="./Images/Banner/github-banner.gif" />
+<img src="./Images/Banner/github-banner2.gif" />
 
 </a>
 
@@ -8,11 +8,19 @@
 
 ## 🙋‍♂️ About me
 
-Hey there! 👋 I'm Nahidul Islam, a **passionate Front-End Developer with a special love for React**. Actively refining my skills with real-world MERN projects, I'm dedicated to staying on the cutting edge of technology.
+Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer hailing from the vibrant city of Chattogram, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
 
 <br>
 
-### 🚀 What I Bring to the Table:
+* I'm currently working on [Glide Parcel](https://github.com/nahidul-fahim/glide-parcel-client "Glide Parcel project")
+* I'm currently learning **Redux, Next.js**
+* You can reach me here: [nahidulislam1196@gmail.com](mailto:nahidulislam1196@gmail.com "Drop an email")
+* [Visit my portfolio](https://nahidul-islam-fahim.web.app "Portfolio website")
+
+<br>
+
+
+## 🚀 What I Bring to the Table:
 
 - **Aspiring Front-End Developer:** I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
 
@@ -22,19 +30,15 @@ Hey there! 👋 I'm Nahidul Islam, a **passionate Front-End Developer with a spe
 
 <br>
 
-### 🌟 My Aspirations for the Next 2 Years:
+## 🌟 My Aspirations for the Next 2 Years:
 
 Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
 
 <br>
 
-### 💼 What I'm Looking For:
+## 💼 What I'm Looking For:
 
 I'm actively seeking opportunities to collaborate on exciting front-end projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
-
-<br>
-
-### **✉️ I'm Just an Email Away! [Drop me a line.](mailto:nahidulislam1196@gmail.com "Drop a email")**
 
 <br><br>
 
@@ -42,7 +46,7 @@ I'm actively seeking opportunities to collaborate on exciting front-end projects
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,css,html,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,css,html,firebase" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
@@ -102,27 +106,32 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br><br>
 
 
-## 🌈 Discover My Recent Projects
+## 🌈 Discover My Best Projects
 
 <br>
+
+
+### ☕ Caffeina Haven (A online restaurant management platform)
+
+<br>
+
+* **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)
+
+* [Visit repo for more details.](https://github.com/nahidul-fahim/caffeina-haven-client).
+
+
+<br><br>
+
+
 
 
 ### 🚙 Motor Mingle (A car selling website)
 
 <br>
 
-**Live site**: [Motor Mingle](https://motor-mingle.web.app)
+* **Live site**: [Motor Mingle](https://motor-mingle.web.app)
 
-Admin email: admin@admin.com
-
-Admin password: Asdf$$
-
-- Dedicated dashboards for both admin and user from where user can make post to sell their old car.
-- Register / login system using firebase and mongoDb database.
-- Pagination, filtering systems are occurred in the backend for better data management.
-- JWT verification for more security.
-- Admin verification system for users.
-- And many more functionalities. [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
+* [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
 
 
 <br><br>
@@ -132,35 +141,12 @@ Admin password: Asdf$$
 
 <br>
 
-**Live site**: [Glide parcel](https://glide-parcel.web.app)
+* **Live site**: [Glide parcel](https://glide-parcel.web.app)
 
-Admin email: admin@admin.com
+* [Visit repo for more details.](https://github.com/nahidul-fahim/glide-parcel-client).
 
-Admin password: Asdf$$
-
-- A dynamic homepage, where all the statistics and deliveryman information coming from database
-- Register / login system
-- 3 different dashboard for 3 different of users (Admin, Delivery man, normal registered user)
 
 
 <br><br>
-
-
-### ☕ Sip-Savor Restaurant (A restaurant website)
-
-<br>
-
-**Live site**: [Sip savor restaurant](https://sip-savor-restaurant.web.app)
-
-Admin email: admin@admin.com
-
-Admin password: Asdf$$
-
-- A dynamic homepage, where total orders and favorite menu information are coming from database
-- Register / login system
-- 2 different dashboard for admin and normal users
-- Admin can manage products from database
-- JWT verification for security
-
 
 <br><br>

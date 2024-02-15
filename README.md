@@ -55,7 +55,7 @@ I'm actively seeking opportunities to collaborate on exciting front-end projects
 <br><br>
 
 
-### 🌐 Let's Connect:
+## 🌐 Let's Connect:
 
 <p align="center">
 
@@ -111,26 +111,18 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br>
 
 
-### ☕ Caffeina Haven (A online restaurant management platform)
-
-<br>
+### ☕ Caffeina Haven (An online restaurant management platform)
 
 * **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)
-
 * [Visit repo for more details.](https://github.com/nahidul-fahim/caffeina-haven-client).
 
 
 <br><br>
 
 
-
-
 ### 🚙 Motor Mingle (A car selling website)
 
-<br>
-
 * **Live site**: [Motor Mingle](https://motor-mingle.web.app)
-
 * [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
 
 
@@ -139,14 +131,5 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ### 📦 Glide Parcel (A parcel booking website)
 
-<br>
-
 * **Live site**: [Glide parcel](https://glide-parcel.web.app)
-
 * [Visit repo for more details.](https://github.com/nahidul-fahim/glide-parcel-client).
-
-
-
-<br><br>
-
-<br><br>

@@ -1,13 +1,10 @@
 <a href="https://www.linkedin.com/in/iamnahidul-islam/">
 <img src="./Images/Banner/githubBanner.gif" />
+</a>
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=blueviolet&style=for-the-badge)
-
-<br>
-
-</a>
 
 <br><br>
 

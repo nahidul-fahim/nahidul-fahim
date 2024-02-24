@@ -15,9 +15,9 @@ Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer hailing fro
 
 <br>
 
-* I'm currently working on [Echo Linkr](https://github.com/nahidul-fahim/echo-linkr-client "Echo Linkr Project")
+* I'm currently working on [Bongo Blend](https://github.com/nahidul-fahim/bongo-blend "Bongo Blend Project")
 * I'm currently learning **Redux, Next.js**
-* You can reach me here: [nahidulislam1196@gmail.com](mailto:nahidulislam1196@gmail.com "Drop an email")
+* You can reach me here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
 * [Visit my portfolio](https://nahidul-islam-fahim.web.app "Portfolio website")
 
 <br>

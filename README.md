@@ -102,8 +102,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 </div>
 
-
-<br><br>
+<br>
 
 
 ## 🌈 Discover My Best Projects

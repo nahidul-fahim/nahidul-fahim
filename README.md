@@ -16,7 +16,7 @@ Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer hailing fro
 <br>
 
 * I'm currently working on [Bongo Blend](https://github.com/nahidul-fahim/bongo-blend "Bongo Blend Project")
-* I'm currently learning **Redux, Next.js**
+* I'm currently learning **Next.js, Redux**
 * You can reach me here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
 * [Visit my portfolio](https://nahidul-islam-fahim.web.app "Portfolio website")
 
@@ -81,9 +81,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nahidul-fahim&theme=transparent_icons=true&type=png" width="450" height="195" /> 
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&show_icons=true&theme=transparent)
 
-<img src="https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&card_width=350" height="195" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nahidul-fahim)
 
 
 
@@ -98,7 +98,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=pie)](https://github.com/nahidul-fahim)
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="700" /> 

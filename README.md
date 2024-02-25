@@ -98,10 +98,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=pie)](https://github.com/nahidul-fahim)
-
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidul-fahim&theme=default" width="700" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=donut&theme=transparent)](https://github.com/nahidul-fahim)
 
 </div>
 

@@ -46,7 +46,7 @@ I'm actively seeking opportunities to collaborate on exciting front-end projects
 <br><br>
 
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,css,html,firebase" />

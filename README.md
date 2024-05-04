@@ -119,7 +119,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br><br>
 
 
-### 🚙 Motor Mingle (A car selling website)
+### 🚙 Motor Mingle (A car-selling website)
 
 * **Live site**: [Motor Mingle](https://motor-mingle.web.app)
 * [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).

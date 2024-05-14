@@ -8,42 +8,29 @@
 
 <br>
 
+## 🙋‍♂️ Hi there, I'm Nahidul Islam
 
-## 🙋‍♂️ About me
 
-Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer hailing from the vibrant city of Chattogram, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
+## 💡 Some facts about me
+
+- I'm a MERN Stack developer.
+<br>
+- Currently working full-time as a Junior Software Engineer.
+<br>
+- My next mission is to become a senior software engineer within the next 3 years.
+<br>
+- I aspire to develop large-scale websites.
+<br>
+- I'm a continuous learner. I keep myself synced with the latest technologies.
+<br>
+- Currently, I'm mastering Node.js, Express.JS, MongoDB and Mongoose.
+<br>
+- [You can visit my portfolio here.](https://nahidul-islam-fahim.web.app "Portfolio website")
+<br>
+- [You can drop a line here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
+
 
 <br>
-
-* I'm currently working on [Bongo Blend](https://github.com/nahidul-fahim/bongo-blend "Bongo Blend Project")
-* I'm currently learning **Next.js, Redux**
-* You can reach me here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
-* [Visit my portfolio](https://nahidul-islam-fahim.web.app "Portfolio website")
-
-<br>
-
-
-## 🚀 What I Bring to the Table:
-
-- **Aspiring Front-End Developer:** I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
-
-- **React Enthusiast:** I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
-
-- **MERN Stack Explorer:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
-
-<br>
-
-## 🌟 My Aspirations for the Next 2 Years:
-
-Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
-
-<br>
-
-## 💼 What I'm Looking For:
-
-I'm actively seeking opportunities to collaborate on exciting front-end projects. I'm enthusiastic about learning and growing within a dynamic team environment. I'm ready to bring my skills and passion to a role that aligns with my goals for professional development. Let's collaborate and build something great together!
-
-<br><br>
 
 
 ## 💻 Tech Stack & Skills 

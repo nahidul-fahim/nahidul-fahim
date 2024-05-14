@@ -8,26 +8,27 @@
 
 <br>
 
-## 🙋‍♂️ Hi there, I'm Nahidul Islam
+# 🙋‍♂️ Hi there, I'm Nahidul Islam
 
 
 ## 💡 Some facts about me
 
 - I'm a MERN Stack developer.
-<br>
+<br><br>
 - Currently working full-time as a Junior Software Engineer.
-<br>
+<br><br>
 - My next mission is to become a senior software engineer within the next 3 years.
-<br>
+<br><br>
 - I aspire to develop large-scale websites.
-<br>
+<br><br>
 - I'm a continuous learner. I keep myself synced with the latest technologies.
-<br>
+<br><br>
 - Currently, I'm mastering Node.js, Express.JS, MongoDB and Mongoose.
-<br>
+  <br><br>
 - [You can visit my portfolio here.](https://nahidul-islam-fahim.web.app "Portfolio website")
-<br>
-- [You can drop a line here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
+<br><br>
+- [You can drop a line here: nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
+
 
 
 <br>

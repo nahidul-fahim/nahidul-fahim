@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/iamnahidul-islam/">
-<img src="./Images/Banner/githubBg.jpg" />
+<img src="./Images/Banner/mainGithubBg.jpg" />
 </a>
 
 <br>

@@ -60,7 +60,7 @@
 
 </p>
 
-Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
+Feel free to explore my repositories below and reach out if you're looking for an enthusiastic MERN Stack Developer ready to bring creativity and a strong work ethic to your team.
 
 
 <br><br>

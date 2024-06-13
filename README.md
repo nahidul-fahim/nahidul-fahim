@@ -20,7 +20,7 @@
 <br><br>
 - I aspire to develop large-scale websites.
 <br><br>
-- I'm a continuous learner. I keep myself synced with the latest technologies.
+- I'm a continuous learner. I keep myself synced with the latest technologies & trends.
 <br><br>
 - Currently, I'm mastering Node.js, Express.JS, MongoDB and Mongoose.
   <br><br>

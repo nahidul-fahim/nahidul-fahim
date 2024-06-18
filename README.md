@@ -40,11 +40,10 @@
 ### Front-end:
   
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,css,html," />
-  <br>
 
   ### Back-end
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <br>
+
   
   ### Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />

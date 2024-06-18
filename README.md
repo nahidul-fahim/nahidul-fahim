@@ -87,9 +87,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nahidul-fahim)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=react&hide_border=true&background=000117&stroke=000117&fire=ffffff&sideLabels=00ffff&currStreakNum=ffffff&ring=ffffff&currStreakLabel=ffffff&sideNums=00ffff)
 
 </div>
 

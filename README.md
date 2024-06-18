@@ -36,8 +36,17 @@
 ## 💻 Tech Stack & Skills 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,css,html,firebase" />
-  <br><br>
+
+### Front-end:
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,css,html," />
+  <br>
+
+  ### Back-end
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <br>
+  
+  ### Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
@@ -45,7 +54,7 @@
 <br><br>
 
 
-## 🌐 Let's Connect:
+## 🌐 Find me on:
 
 <p align="center">
 
@@ -56,6 +65,15 @@
   <a href="https://twitter.com/nahidul_fahim_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+
+  <a href="https://dev.to/nahidulislam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  
+  <a href="mailto:nahidul7562@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
 
 </p>
 

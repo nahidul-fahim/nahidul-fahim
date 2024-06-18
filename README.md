@@ -82,12 +82,10 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br><br>
 
 
-## 🔍 Git Insights
+## 🔍 Current stats
 <div align="center">
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&show_icons=true&theme=transparent)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&background=45%2C000342%2C000117&ring=FFFFFF&border=000342&sideNums=00ffFF&fire=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF00&dates=FFFFFF&sideLabels=00ffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&background=45%2C000117%2C000342&ring=FFFFFF&border=000342&sideNums=00F0FF&fire=FFFFFF&currStreakLabel=FFFFFF&stroke=FFFFFF00&dates=FFFFFF&sideLabels=00F0FF)
 
 </div>
 

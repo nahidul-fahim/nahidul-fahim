@@ -7,28 +7,23 @@
 
 <br>
 
-# 🙋‍♂️ Hi there, I'm Nahidul Islam
+# 🙋‍♂️ Hi there! Nahidul Islam here, your go-to MERN Stack magician.
 
+### 🚀 Aiming to climb the ranks from Junior Software Engineer to Senior in just 3 years.
 
-## 💡 Some facts about me
+### 🌐 Dreaming big with plans to craft large-scale websites that dazzle.
 
-- I'm a MERN Stack developer.
-<br><br>
-- Currently working full-time as a Junior Software Engineer.
-<br><br>
-- My next mission is to become a senior software engineer within the next 3 years.
-<br><br>
-- I aspire to develop large-scale websites.
-<br><br>
-- I'm a continuous learner. I keep myself synced with the latest technologies & trends.
-<br><br>
-- Currently, I'm mastering Node.js, Express.JS, MongoDB and Mongoose.
-  <br><br>
-- [You can visit my portfolio here.](https://nahidul-islam.vercel.app "Portfolio website")
-<br><br>
-- [You can drop a line here: nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
+### 📚 Forever learning, always on the lookout for the latest tech trends.
 
+### 🔧 Currently mastering the art of Node.js, Express.js, MongoDB, and Mongoose.
 
+### 💻 [Explore my digital playground here.](https://nahidul-islam.vercel.app "Portfolio website")
+
+### 📨 [Want to chat? Shoot me an email: nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
+
+### 🧩 Fun fact: When I'm not coding, you'll find me solving puzzles or exploring new coffee blends.
+
+### 💬 "Code is like humour. When you have to explain it, it’s bad." - Cory House
 
 <br>
 

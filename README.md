@@ -30,19 +30,15 @@
 
 ## 💻 Tech Stack & Skills 
 
-<p align="center">
-
-### Front-end:
+<div align="center">
   
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,css,html," />
-
-  ### Back-end
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,css,html" />
+  <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-  
-  ### Tools
+  <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+
+</div>
 
 
 <br><br>
@@ -103,16 +99,11 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ## 🌈 Discover My Best Projects
 
-<br>
-
-
 ### ☕ Caffeina Haven (An online restaurant management platform)
 
 * **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)
 * [Visit repo for more details.](https://github.com/nahidul-fahim/caffeina-haven-client).
 
-
-<br><br>
 
 
 ### 🚙 Motor Mingle (A car-selling website)
@@ -121,10 +112,20 @@ Feel free to explore my repositories below and reach out if you're looking for a
 * [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
 
 
-<br><br>
-
-
 ### 📦 Glide Parcel (A parcel booking website)
 
 * **Live site**: [Glide parcel](https://glide-parcel.web.app)
 * [Visit repo for more details.](https://github.com/nahidul-fahim/glide-parcel-client).
+
+
+
+
+<br>
+
+## ✒ My Recent Blog Posts
+
+* **[Exploring basic data types in TypeScript](https://dev.to/nahidulislam/exploring-basic-data-types-in-typescript-34fo).**
+  
+* **[React custom hooks guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)**
+  
+* **[Access modifiers in TypeScript](https://dev.to/nahidulislam/access-modifiers-in-typescript-the-gatekeepers-50i)**

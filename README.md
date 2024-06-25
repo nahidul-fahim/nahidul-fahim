@@ -9,7 +9,7 @@
 
 # 🙋‍♂️ Hi there! Nahidul Islam here, your go-to MERN Stack magician.
 
-### 🚀 Aiming to climb the ranks from Junior Software Engineer to Senior in just 3 years.
+### 🚀 Aiming to climb the ranks from Junior position to Senior in just 3 years.
 
 ### 🌐 Dreaming big with plans to craft large-scale websites that dazzle.
 

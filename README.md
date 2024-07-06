@@ -1,15 +1,15 @@
-<img src="./Images/Banner/mainGithubBg1.jpg" />
+<img src="./Images/Banner/githubBanner.jpg" />
 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=4E545C&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=26785a&style=for-the-badge)
 
 <br>
 
 # 🙋‍♂️ Hi there! Nahidul Islam here, your go-to MERN Stack magician.
 
-### 🚀 Aiming to climb the ranks from Junior position to Senior in just 3 years.
+### 🚀 Aiming to climb the ranks from Junior Software Engineer to Senior in just 3 years.
 
 ### 🌐 Dreaming big with plans to craft large-scale websites that dazzle.
 
@@ -76,7 +76,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=4E545C&background=45%2CD1D1D1%2Cffffff&ring=4E545C&border=ffffff&sideNums=757575&fire=4E545C&currStreakLabel=4E545C&stroke=4E545C00&dates=757575&sideLabels=757575)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C0b201b%2C133D31&ring=ffffff&border=133D31&sideNums=4ebf96&fire=ffffff&currStreakLabel=ffffff&stroke=4E545C00&dates=BACDC6&sideLabels=BACDC6)
 
 </div>
 

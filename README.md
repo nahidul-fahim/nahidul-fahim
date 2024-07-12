@@ -3,16 +3,15 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=2B1D1D&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=000133&style=for-the-badge)
 
 <br>
 
 # 🙋‍♂️ Hi there! Nahidul Islam here, your go-to MERN Stack magician.
 
-### 🚀 Aiming to climb the ranks from Junior Software Engineer to Senior in just 3 years.
+### 🚀 Aiming to climb the ranks from Junior role to Senior in the upcoming 3 years.
 
 ### 🌐 Dreaming big with plans to craft large-scale websites that dazzle.
-
 ### 📚 Forever learning, always on the lookout for the latest tech trends.
 
 ### 🔧 Currently mastering the art of Node.js, Express.js, MongoDB, and Mongoose.

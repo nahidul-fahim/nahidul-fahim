@@ -3,11 +3,11 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=717171&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=000a47&style=for-the-badge)
 
 <br>
 
-# 🙋‍♂️ Hi there! Nahidul Islam here, your go-to MERN Stack magician.
+# 🙋‍♂️ Hi there! Nahidul Islam here, your  go-to MERN Stack magician.
 
 ### 🚀 Aiming to climb the ranks from Junior role to Senior in the upcoming 3 years.
 
@@ -75,7 +75,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C343434%2C717171&ring=ffffff&border=00013300&sideNums=CFCFCF&fire=ffffff&currStreakLabel=ffffff&stroke=4E545C00&dates=E6F4F1&sideLabels=E6F4F1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C000a47%2C000526&ring=ffffff&border=00013300&sideNums=5DFBD7&fire=ffffff&currStreakLabel=ffffff&stroke=4E545C00&dates=E1E1E1&sideLabels=E1E1E1)
 
 </div>
 

@@ -3,7 +3,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=1F1E1E&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=0a0a0a&style=for-the-badge)
 
 <br>
 
@@ -75,7 +75,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C1F1E1E%2C2B2B2B&ring=ffffff&border=00013300&sideNums=D2D2D2&fire=FF5308&currStreakLabel=D2D2D2&stroke=dfdfdf00&dates=D2D2D2&sideLabels=D2D2D2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C0a0a0a%2C010045&ring=ffffff&border=00013300&sideNums=D2D2D2&fire=FF5308&currStreakLabel=D2D2D2&stroke=dfdfdf00&dates=D2D2D2&sideLabels=D2D2D2)
 
 </div>
 

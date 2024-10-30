@@ -88,7 +88,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&theme=transparent&langs_count=8&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&theme=transparent&layout=pie)
 
 
 </div>

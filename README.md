@@ -14,15 +14,15 @@
 
 🌐 Passionate about crafting large-scale, dazzling websites that make a lasting impression.
 
-📚 A lifelong learner, always on the hunt for the latest tech trends and best practices.
+📚 A lifelong learner, always searching for the latest tech trends and best practices.
 
 🔧 Currently diving deep into Node.js, Express.js, MongoDB, and Mongoose to refine my expertise.
 
-💻 Explore my portfolio and projects here.
+💻 [Explore my portfolio and projects here.](https://nahidul-islam.vercel.app "Nahidul Islam - Portfolio website")
 
-📨 Let’s connect! Email me: nahidul7562@gmail.com
+📨 Let’s connect! Please email me: nahidul7562@gmail.com
 
-🧩 Fun fact: When I'm not coding, you’ll find me solving puzzles or exploring unique coffee blends.
+🧩 Fun fact: You’ll find me solving puzzles or exploring unique coffee blends when I'm not coding.
 
 💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 

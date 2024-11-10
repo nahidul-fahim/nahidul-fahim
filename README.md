@@ -101,9 +101,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 <div align="center">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&theme=transparent&layout=pie)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&langs_count=8&theme=transparent&layout=pie)
 
 </div>
 

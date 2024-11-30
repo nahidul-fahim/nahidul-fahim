@@ -3,12 +3,11 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=11193d&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=8ec5ff&style=for-the-badge)
 
 <br>
 
-## 🙋‍♂️ Hi there! Nahidul Islam here, your  go-to MERN Stack magician.
-
+### 🙋‍♂️ Hi there! Nahidul Islam here, your go-to web development magician proficient in MERN stack technologies and more. 
 
 🚀 Aspiring to level up from Junior to Senior in the next three years.
 
@@ -16,9 +15,9 @@
 
 📚 A lifelong learner, always searching for the latest tech trends and best practices.
 
-🔧 Currently diving deep into Node.js, Express.js, MongoDB, and Mongoose to refine my expertise.
+🔧 Currently diving deep into Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, and Nest.jsto refine my expertise.
 
-💻 [Explore my portfolio and projects here.](https://nahidul-islam.vercel.app "Nahidul Islam - Portfolio website")
+💻 Explore my portfolio and projects here.
 
 📨 Let’s connect! Please email me: nahidul7562@gmail.com
 
@@ -89,7 +88,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C11193d%2C0d132e&ring=ffffff&border=00013300&sideNums=e3e6ef&fire=ffffff&currStreakLabel=e3e6ef&stroke=e2ffff00&dates=e3e6ef&sideLabels=e3e6ef)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=002b58&background=45%2C8ec5ff%2Cf1faff&ring=002b58&border=00013300&sideNums=798391&fire=002b58&currStreakLabel=002b58&stroke=e2ffff00&dates=798391&sideLabels=798391)
 
 </div>
 

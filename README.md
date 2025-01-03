@@ -107,6 +107,11 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ## 🌈 Discover My Best Projects
 
+### ☕ Tech Pulse (A blogging platform for tech-enthusiast)
+
+* **Live site**: [Tech Pulse](https://tech-pulse-a6.vercel.app)
+* [Visit repo for more details.](https://github.com/nahidul-fahim/tech-pulse-client-a6).
+
 ### ☕ Caffeina Haven (An online restaurant management platform)
 
 * **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)

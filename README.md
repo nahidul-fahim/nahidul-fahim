@@ -88,7 +88,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C000449%2C000532&ring=ffffff&border=00013300&sideNums=c5c3fc&fire=ffffff&currStreakLabel=ffffff&stroke=e2ffff00&dates=c5c3fc&sideLabels=c5c3fc)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&background=45%2C4d4d4d%2C1d1d1d&ring=ffffff&border=00013300&sideNums=cfcfcf&fire=ffffff&currStreakLabel=ffffff&stroke=e2ffff00&dates=cfcfcf&sideLabels=cfcfcf)
 
 </div>
 

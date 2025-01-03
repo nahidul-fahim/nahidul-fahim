@@ -3,7 +3,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=000449&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=nahidul-fahim&color=828282&style=for-the-badge)
 
 <br>
 

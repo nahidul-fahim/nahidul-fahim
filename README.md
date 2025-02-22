@@ -7,7 +7,7 @@
 
 <br>
 
-### 🙋‍♂️ Hi there! Nahidul Islam here, your go-to web development magician proficient in MERN stack technologies and more. 
+### 🙋‍♂️ Hi there! Nahidul Islam here, your go-to web development magician proficient in MERN stack technologies and more.
 
 🚀 Aspiring to level up from Junior to Senior in the next three years.
 

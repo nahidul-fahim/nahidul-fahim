@@ -88,7 +88,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Current stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahidul-fahim&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=00c8ff&background=45%2C131313%2C262626&ring=00c8ff&border=00013300&sideNums=f0f0f0&fire=00c8ff&currStreakLabel=00c8ff&stroke=e2ffff00&dates=f0f0f0&sideLabels=f0f0f0)
+<a href="https://nahidul-islam.vercel.app"><img src="https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&border_radius=10" alt="GitHub Streak" /></a>
 
 </div>
 

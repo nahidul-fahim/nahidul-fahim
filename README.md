@@ -99,7 +99,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 📊 Git Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=pie&theme=transparent&border_color=454545" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=compact&theme=transparent&border_color=454545" alt="" />
 </div>
 
 <br>

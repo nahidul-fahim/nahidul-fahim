@@ -8,23 +8,33 @@
 
 <br>
 
-### 🙋‍♂️ Hi there! Nahidul Islam here, your go-to web development magician proficient in MERN stack technologies and more.
+### 👋 Hi, I’m Nahidul Islam — Web Developer | MERN Stack Specialist
 
-🚀 Aspiring to level up from Junior to Senior in the next three years.
+🔧 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js) | PostgreSQL | Prisma | Nest.js | Mongoose  
+💼 **Currently focusing on:** Deepening backend expertise with **Node.js**, **Nest.js**, **Prisma**, and **Python**  
+🎯 **Goal:** Advancing to a **Senior Developer** role within the next 3 years
 
-🌐 Passionate about crafting large-scale, dazzling websites that make a lasting impression.
+---
 
-📚 A lifelong learner, always searching for the latest tech trends and best practices.
+💡 I specialize in building **robust**, **scalable**, and **performance-driven** web applications — whether it's a fast MVP or a full-scale production system.
 
-🔧 Currently diving deep into Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, and Nest.js refine my expertise.
+🔍 I’m committed to writing **clean, maintainable code** and following **industry best practices**.  
+📚 A lifelong learner, always keeping an eye on the latest trends, tools, and frameworks that help deliver better software.
 
-💻 Explore my portfolio and projects here.
+---
 
-📨 Let’s connect! Please email me: nahidul7562@gmail.com
+📂 **Portfolio & Projects:**  
+Take a look at what I’ve built: [Portfolio](https://nahidul-islam.vercel.app)
 
-🧩 Fun fact: You’ll find me solving puzzles or exploring unique coffee blends when I'm not coding.
+📨 **Let’s collaborate or chat:**  
+nahidul7562@gmail.com
 
-💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+---
+
+☕ **Beyond Code:** You’ll likely find me solving puzzles or experimenting with unique coffee blends — unless I’m debugging, of course.
+
+🧠 Favorite quote: *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
 
 <br>
 
@@ -79,6 +89,14 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidul7562@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+<a href="https://app.daily.dev/nahidul_islam"><img src="https://api.daily.dev/devcards/v2/VeKeaVd6pL9G6KodgCJno.png?type=default&r=q06" width="356" alt="Nahidul Islam's Dev Card"/></a>
+</div>
+
+---
 
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic MERN Stack Developer ready to bring creativity and a strong work ethic to your team.
 

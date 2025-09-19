@@ -84,7 +84,7 @@ nahidul7562@gmail.com
 
 <div align="start">
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-3254a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://nahidul-islam.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-1E2642?style=for-the-badge&logo=linkedin&logoColor=white)](https://nahidul-islam.vercel.app)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamnahidul-islam/)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nahidul_fahim_)
 [![Dev.to Badge](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nahidulislam11)

@@ -127,30 +127,14 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br>
 
 
-## 🌈 Discover My Best Projects
+## 🌟 Work I’m Proud Of  
+Curated highlights that reflect my craftsmanship, discipline, and long-term vision.
 
-### ☕ Tech Pulse (A blogging platform for tech-enthusiast)
+### 🚧 Flanance *(Ongoing Project)*  
+A modern money-management platform built with a focus on scalability, reliability, and practical financial workflows.
 
-* **Live site**: [Tech Pulse](https://tech-pulse-a6.vercel.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/tech-pulse-client-a6).
-
-### ☕ Caffeina Haven (An online restaurant management platform)
-
-* **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/caffeina-haven-client).
-
-
-
-### 🚙 Motor Mingle (A car-selling website)
-
-* **Live site:** [Motor Mingle](https://motor-mingle.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
-
-
-### 📦 Glide Parcel (A parcel booking website)
-
-* **Live site**: [Glide parcel](https://glide-parcel.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/glide-parcel-client).
+- **Live site:** _Coming soon_  
+- **Repository:** _Private / In active development_
 
 <br>
 
